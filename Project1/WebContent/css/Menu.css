@@ -1,0 +1,16 @@
+@CHARSET "EUC-KR";
+
+
+.tab_menu{overflow:hidden;width:600px;height:39px;padding-top:5px;background:url(http://html.nhncorp.com/data/guidelines/uio/img/menu/bg_ttab.gif) no-repeat} 
+
+
+ .tab_menu li{float:left;position:relative;z-index:10;margin-left:-1px;padding:9px 18px 10px 20px;background:url(http://html.nhncorp.com/data/guidelines/uio/img/menu/bg_li_bar.gif) no-repeat 0 10px;color:#fff;font-size:14px;font-weight:bold;} 
+
+
+ .tab_menu li img{margin-bottom:1px;vertical-align:middle} 
+
+
+ .tab_menu li span{color:#8bcf1f;font-family:tahoma;font-size:10px} 
+
+
+ .tab_menu li a{display:block;color:#fff;text-decoration:none} 

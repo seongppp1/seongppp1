@@ -1,0 +1,8 @@
+@CHARSET "EUC-KR";
+body{_text-align:center}
+#wrap{width:600px; margin:0 auto;_text-align:left}
+#header{width:100%}
+#container{width:100%; display:inline-block}
+#container:after{display:block; clear:both; content:''}
+.snb{float:right; width:400px}
+#footer{width:100%}
